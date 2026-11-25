@@ -4,7 +4,7 @@ A simple and interactive Todo App built using **React.js** and **Tailwind CSS**.
 
 ## ✨ Features
 
-## NOTE THIS IS NOT MOBILE FRENDLY UI ##
+## NOTE THIS IS NOT MOBILE FRIENDLY UI ##
 
 
 
