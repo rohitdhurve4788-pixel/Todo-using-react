@@ -1,0 +1,41 @@
+# 📝 Todo App – React
+
+A simple and interactive Todo App built using **React.js** and **Tailwind CSS**. This project helps users manage their daily tasks with features like adding, editing, deleting, filtering, and saving tasks using Local Storage.
+
+## ✨ Features
+
+- ➕ **Add Tasks** – Add new tasks easily.
+- 🟡 **Edit Tasks** – Update existing tasks.
+- 🔴 **Delete Tasks** – Remove individual tasks.
+- ✅ **Complete Tasks** – Mark tasks as completed using checkboxes.
+- 🔍 **Filter Tasks** – View All, Active, and Completed tasks.
+- 🧹 **Clear Completed** – Remove all completed tasks at once.
+- ❌ **Clear All** – Delete all tasks.
+- 💾 **Local Storage** – Tasks remain saved even after refreshing the browser.
+- ⌨️ **Keyboard Support** – Add tasks using the Enter key.
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- Local Storage API
+- Vite
+
+## 📸 Preview
+
+![alt text](image.png)
+
+
+
+
+
+
+## 🎯 Purpose
+
+This project was built as a hands-on React.js practice project to improve my understanding of state management, hooks, array methods, and component-based development.
+
+---
+
+**Built with ❤️ using React.js**
