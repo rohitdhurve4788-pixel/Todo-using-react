@@ -4,6 +4,10 @@ A simple and interactive Todo App built using **React.js** and **Tailwind CSS**.
 
 ## ✨ Features
 
+## NOTE THIS IS NOT MOBILE FRENDLY UI ##
+
+
+
 - ➕ **Add Tasks** – Add new tasks easily.
 - 🟡 **Edit Tasks** – Update existing tasks.
 - 🔴 **Delete Tasks** – Remove individual tasks.
@@ -37,6 +41,6 @@ A simple and interactive Todo App built using **React.js** and **Tailwind CSS**.
 
 This project was built as a hands-on React.js practice project to improve my understanding of state management, hooks, array methods, and component-based development.
 
----
+🌍🌍 LIVE AT : https://todo-using-react-rho.vercel.app/
 
 **Built with ❤️ using React.js**
