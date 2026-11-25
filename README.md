@@ -25,7 +25,8 @@ A simple and interactive Todo App built using **React.js** and **Tailwind CSS**.
 
 ## 📸 Preview
 
-![alt text](image.png)
+<img width="1108" height="790" alt="image" src="https://github.com/user-attachments/assets/be03471e-94cf-4e48-827e-3fdbe50ac185" />
+
 
 
 
