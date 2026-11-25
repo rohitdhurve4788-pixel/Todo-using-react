@@ -71,7 +71,7 @@ const taskfilter=task.filter((elem)=>{
             <div className='bg-[#333]   max-w-[600px] m-auto p-5 flex flex-col gap-5 rounded-2xl'>
                 <div className='text-green-400  text-3xl font-semi-bold'>todo</div>
                 <div className='flex  gap-4'>
-                    <input onChange={(e) => (settasks(e.target.value))} onKeyDown={(e) => { e.key === 'Enter' && taskadder() }} className='bg-[#111] py-3 px-4 w-full outline-none rounded-md' type="text" value={tasks} placeholder='enter yiour task ' />
+                    <input onChange={(e) => (settasks(e.target.value))} onKeyDown={(e) => { e.key === 'Enter' && taskadder() }} className='bg-[#111] py-3 px-4 w-full outline-none rounded-md' type="text" value={tasks} placeholder='enter your task ' />
                     <button onClick={taskadder} className='py-2 px-4 bg-green-500 rounded-md cursor-pointer'>Add</button>
                 </div>
                 <div className='flex  justify-between items-center'>
